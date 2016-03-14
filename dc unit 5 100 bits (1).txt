@@ -1,0 +1,859 @@
+MCQ Test 1 on Wireless WANs: Cellular Telephone and Satellite Networks
+
+MCQ The Teledesic System has the data rate is up to
+
+135 Mbps
+145 Mbps
+150 Mbps
+155 Mbps
+Answer D
+
+MCQ In north America, Advanced Mobile Phone Service (AMPS) is one of the leading cellular
+
+Company
+Generation
+System
+Station
+Answer C
+
+MCQ Second generation of the cellular phone network was developed, to provide higher-quality mobile
+
+Data Communications
+Signal Communications
+Frame Communications
+Voice Communications
+Answer D
+
+MCQ To prevent the interference of adjacent cell signals, the size of the cell is
+
+Increased
+Decreased
+Optimized
+Minimized
+Answer C
+
+MCQ In cellular telephony, for forward and reverse communication, the system uses two separate
+
+Analog Frames
+Analog Systems
+Analog Data
+Analog Channels
+Answer D
+In cellular telephony, a service provider must be able to locate and track a
+
+Signals
+Stations
+Data
+Caller
+Answer D
+
+MCQ Satellite Networks can divide the planet into
+
+Nodes
+Slots
+Cells
+Codes
+Answer C
+
+MCQ Roaming is the feature of
+
+Cellular Telephony
+Cellular Data
+Cellular Frames
+Cellular Signals
+Answer A
+
+MCQ Approximately the distance of Moon above the Earth is
+
+364,000 km
+374,000 km
+384,000 km
+394,000 km
+Answer C
+
+MCQ Transmission from the Earth to the satellite is called the
+
+Up-link
+ In the Global star system the orbits are located at an altitude of almost
+
+1400 Ian
+1200 Ian
+1000 Ian
+800 Ian
+Answer A
+
+MCQ GSM stands for
+
+Global System for Mobile
+Global Situation for Mobile
+Global Signal for Mobile
+Global Station for Mobile
+Answer A
+
+MCQ In cellular telephony, Interim Standard 95 (IS-95) forward transmission, the output of the long code generator is fed to a
+
+Connector
+Protector
+Director
+Decimator
+Answer D
+
+MCQ The area which is divided into small region of cells is called
+
+Cellular Service
+Cellular Data
+Cellular Signals
+Cellular Stations
+Answer A
+
+MCQ The Global star system is similar to the
+
+Iridium System
+meridian System
+Network System
+Gateway System
+Answer A
+
+Down-link
+Low-link
+High-link
+Answer A
+The Mobile Switching Center (MSC) seeks a new cell that can better accommodate the communication, if the strength of the signals are
+
+Strong
+Low
+Diminishes
+High
+Answer C
+
+MCQ Global star is another satellite system of
+
+GEO
+MEO
+LEO
+GPS
+Answer C
+
+MCQ Satellites can provide transmission capability to and from any location on
+
+Moon
+Earth
+Mars
+Jupiter
+Answer B
+
+MCQ In 1900-MHz band, a mobile station needs more
+
+Signals
+Power
+Pilot
+Frames
+Answer B
+
+MCQ A satellite can also communicate with an Earth station through a
+
+User Mobile Link
+Gateway Link
+Satellite Link
+Station Link
+Answer B
+A Van Allen belt is a layer that contains
+
+Charged Signals
+Charged Stations
+Charged Particles
+Charged Slots
+Answer C
+
+MCQ In cellular telephony, each band is divided into
+
+82 Channels
+80 Channels
+78 Channels
+76 Channels
+Answer A
+
+MCQ The Iridium system can be used for Navigation, Voice, Fax, Paging and
+
+SMS
+GPS
+MMS
+DATA
+Answer D
+
+MCQ In cellular telephony, bands and Channels of Interim Standard 95 (IS-95) uses two bands for duplex communication in
+
+IS-99
+IS-98
+IS-97
+IS-95
+Answer D
+
+MCQ Orbital speed is based on the distance from the
+
+Moon
+Earth
+Planet
+Station
+Answer C
+The Iridium system contains
+
+35 satellites
+66 satellites
+72 satellites
+87 satellites
+Answer B
+
+MCQ The Iridium System has 66 satellites divided into
+
+9 Orbits
+8 Orbits
+7 Orbits
+6 Orbits
+Answer D
+
+MCQ Third generation of Cellular Telephony,has the band of
+
+1 GHz
+2 GHz
+4 GHz
+8 GHz
+Answer B
+
+MCQ The L band has the bandwidth of
+
+10 MHz
+15 MHz
+20 MHz
+25 MHz
+Answer B
+
+MCQ The signal from a satellite is normally aimed at a specific area called the
+
+Blue Print
+Black Print
+Hand Print
+Foot Print
+Answer D
+
+ To provide direct worldwide communication using handheld terminals, is the purpose of
+
+meridian
+Iridium
+Space
+Beams
+Answer B
+
+MCQ In cellular telephony, The size of the cell is not fixed, increased or decreased depending on the population of
+
+Signals
+Area
+Data
+Stations
+Answer B
+
+MCQ In Sattelite Networks, according to Kepler's law, the period of moon is
+
+Period: C x distance1.3
+Period: C x distance1.5
+Period: C x distance1.7
+Period: C x distance1.9
+Answer B
+
+MCQ The S band has the bandwidth of
+
+55 MHz
+60 MHz
+65 MHz
+70 MHz
+Answer D
+
+MCQ Teledesic has 288 satellites in
+
+10 Leo orbits
+11 LEO orbits
+12 LEO orbits
+13 LEO orbits
+Answer C
+In Sattelite Networks, the orbit travels around the
+
+Earth
+Moon
+Mars
+Jupiter
+Answer A
+
+MCQ In cellular telephony, Interim Standard 95 (IS-95), producing data at a basic rate of
+
+9.6 Kbps
+9.7 Kbps
+9.8 Kbps
+9.9 Kbps
+Answer A
+
+MCQ In cellular telephony, a voice channel is digitized to
+
+7.5 Kbps
+7.50 Kbps
+7.85 Kbps
+7.95 Kbps
+Answer D
+
+MCQ The S band has the Up-link of
+
+2.4 GHz
+2.2 GHz
+2.8 GHz
+2.10 GHz
+Answer B
+
+MCQ MEO stands for
+
+Middle Earth Orbit
+Moon Earth Orbit
+Mars Earth Orbit
+Misc. Earth Orbit
+Answer A
+Global Service for Mobile (GSM) uses two bands for duplex
+
+Data
+Communications
+Signals
+Frames
+Answer B
+
+MCQ In cellular telephony, channels 1 to 7 of Interim Standard 95 (IS-95) forward transmission are used for
+
+gives information
+paging
+traffic control
+bit synchronization
+Answer B
+
+MCQ In cellular telephony, the data rate of each reverse voice channel in Interim Standard 95 (IS-95) is
+
+9.2 kbps
+9.4 kbps
+9.6 kbps
+9.8 kbs
+Answer C
+
+MCQ Cellular telephony was designed to provide communications between two
+
+static units
+moving units
+land units
+None
+Answer B
+
+MCQ In cellular telephony, Interim Standard 95 (IS-95), the forward channel is used the technique of
+
+CDMA
+DSSS
+FHSS
+FDMA
+Answer A
+In third generation of Cellular Telephony, the data rate for access in a moving vehicle is
+
+125 Kbps
+138 Kbps
+140 Kbps
+144 Kbps
+Answer D
+
+MCQ Global star communication requires both satellites and
+
+Base Stations
+Network Stations
+Orbit Stations
+Earth Stations
+Answer D
+
+MCQ Advanced Mobile Phone Service (AMPS) has a frequency reuse factor of
+
+9
+8
+7
+5
+Answer C
+
+MCQ Public Communication Service (PCS) use any second-generation
+
+System
+Signals
+Technology
+Chunks
+Answer C
+
+MCQ Low Earth Orbit (LEO) satellites has the rotation period of
+
+70 to 80 Min
+80 to 90 Min
+90 to 100 Min
+90 to 120 Min
+Answer D
+The concept of the Iridium system was started by
+
+Siemens
+Motorola
+Samsung
+Nokia
+Answer B
+
+MCQ A natural satellite can be used as a relaying node in the network, such as
+
+Earth
+Moon
+Mars
+Jupiter
+Answer B
+
+MCQ The big LEOs operate between
+
+1 to 2GHz
+1 to 5 GHz
+1 to 3 GHz
+1 to 7 GHZ
+Answer C
+
+MCQ In Low Earth Orbit (LEO) satellites, the round-trip time propagation delay is normally less than
+
+10 ms
+15 ms
+20 ms
+25 ms
+Answer C
+
+MCQ In third generation Cellular Telephony, the data rate for access is 384 Kbps for
+
+Aero plane
+Train
+Pedestrian
+Biker
+Answer C
+We need at least four spheres to find our exact position in
+
+Land
+Air
+Space
+Depth
+Answer C
+
+MCQ AMPS stands for
+
+American Mobile Power Station
+Advanced Mobile Phone System
+Advanced Mobile Phone Signals
+Advanced Mobile Phone Stations
+Answer B
+
+MCQ In cellular telephony, Interim Standard 95 (IS-95) forward transmission, the output of the decimator is used for
+
+Signaling
+Scrambling
+Framing
+Generating
+Answer B
+
+MCQ The atomic clock is precise and can function synchronously with each other in
+
+Satellite
+Space
+Air
+Land
+Answer A
+
+MCQ In cellular telephony, the traffic channels in forward transmission carrying digitized voice from the base station to the mobile stations are Channels 8 to 31 and
+
+0 to 7
+32 to 63
+32 to 60
+33 to 63
+Answer D
+ In cellular telephony, MSS stands for
+
+Multi Stations
+Moving Stations
+Mobile Stations
+Module Stations
+Answer C
+
+MCQ In third generation of Cellular Telephony, the portable device is always
+
+Connected
+Disable
+Enable
+Charged
+Answer A
+
+MCQ Third generation of Cellular Telephony, has the bandwidth of
+
+4 MHz
+3 MHz
+2 MHz
+1 MHz
+Answer C
+
+MCQ The Teledesic project was started in 1990 by
+
+Bill Gates and Steve Jobs
+Craig McCaw and Bill Gates
+Mark Stephen and Bill Gates
+John Miller and Bill Gates
+Answer B
+
+MCQ A cellular telephony refers to a combination of technologies in
+
+First Generation
+Second Generation
+Third Generation
+Fourth Generation
+Answer C
+ In cellular telephony, the Electronic Serial Number (ESN) is unique for each
+
+Station
+Data
+Mobile
+Frame
+Answer A
+
+MCQ The Global star system has used
+
+50 Satellites
+48 Satellites
+46 Satellites
+44 Satellites
+Answer B
+
+MCQ Through a roaming contract, neighboring service providers can provide
+
+Extended Stations
+Extended Coverage
+Extended Signals
+Extended Roaming
+Answer B
+
+MCQ In cellular telephony, the pilot channel that is used for the purpose of control and synchronization in Interim Standard 95 (IS-95) forward transmission is
+
+Channel 0
+Channel 32
+Channel 7
+Channel 18
+Answer A
+
+MCQ In Sattelite Networks, the orbit can be equatorial, inclined, or
+
+Solar
+Nodes
+Slots
+Polar
+Answer D
+ Geostationary Earth orbit (OEO) to provide full global
+
+Communication
+Transmission
+Data
+Signals
+Answer B
+
+MCQ In cellular telephony, the reverse channels of the Interim Standard 95 (IS-95) use
+
+FDMA
+FHSS
+CDMA
+DSSS
+Answer D
+
+MCQ In Sattelite Networks, the signal power is maximum of the foot print at the
+
+Corner
+Bottom
+Center
+Side
+Answer C
+
+MCQ Medium-Earth-orbit (MEO) satellites are positioned between the two
+
+Data Belts
+Frame Belts
+Van Allen Belts
+Van Station Belts
+Answer C
+
+MCQ In the Iridium system, communication between two users takes place through
+
+Network
+Satellite
+Beams
+Orbits
+Answer B
+ Digital Advance Mobile Phone Service (D-AMPS) was designed to be backward-compatible with
+
+FDMA
+AMPS
+CDMA/CS
+FSK
+Answer B
+
+MCQ In cellular telephony, communication must first be broken with the previous base station, when one cell move to another in
+
+Mobile Signals
+Mobile Switching Center
+Mobile Station
+Mobile Service Connection
+Answer C
+
+MCQ A mobile station only communicates with one base station, in a
+
+Back Off
+Hard Handoff
+Soft Handoff
+Low Handoff
+Answer B
+
+MCQ In Sattelite Networks, as we move, the power of foot print is
+
+Decreased
+Increased
+Low
+High
+Answer A
+
+MCQ In Global Service for Mobile (GSM), each band is divided into 124 channels of
+
+200 KHz
+150 KHz
+100 KHz
+50 KHz
+Answer A
+ How many bits in the data unit has changed in single bit error
+
+only 1
+two bits
+three bits
+four bits
+Answer A
+
+MCQ To guarantee the detection of up to s errors in all cases, the minimum hamming distance in a block code must be
+
+s
+s+1
+s-1
+0
+Answer B
+
+MCQ The cyclic codes are fast when these are implemented in
+
+software
+hardware
+Local area network
+Wide area network
+Answer B
+
+MCQ In block coding, we divide our message into blocks, is called
+
+code blocks
+packet blocks
+codewords
+datawords
+Answer D
+
+MCQ Find the parity bit for 1001011
+
+0
+1
+2
+None
+Answer A
+ All burst errors of a cyclic code will be detected when
+
+L > r+1
+L =r + 1
+L ? r
+L ? r
+Answer D
+
+MCQ The process of modulo-2 binary division is the same as the
+
+multiplication
+division
+addition
+subtraction
+Answer B
+
+MCQ Traditionally, the Internet checksum is
+
+8-bit
+16-bit
+24-bit
+32-bit
+Answer B
+
+MCQ If the value of checksum is 0, then the message is
+
+accepted
+rejected
+sent back
+resend
+Answer A
+
+MCQ CRC stands for
+
+combine resistance check
+cyclic redundancy cod
+combine redundancy code
+cyclic redundancy check
+Answer D
+
+In the isolated double errors of the cyclic code, the generator cannot divide the term x^t+1 where t is in between
+
+0 and n-1
+0 and n
+0 and n+1
+0 and n+2
+Answer A
+
+MCQ Shifting to the left is performed by
+
+addition
+subtraction
+multiplication
+division
+Answer C
+
+MCQ In a linear block code, the exclusive OR (XOR) of any two valid code words creates another
+
+valid codeword
+invalid codeword
+valid dataword
+invalid dataword
+Answer A
+
+MCQ If generator of the cyclic code has at least two terms and the rightmost bit is 1 then error cannot be divided by
+
+syndrome
+error
+dataword
+generator
+Answer D
+
+MCQ In the bit pattern, the shifting to the right means
+
+adding extra 0s as rightmost bits
+deleting some rightmost bits
+adding extra 1s as rightmost bits
+deleting some leftmost bits
+Answer B
+ A generator of a cyclic code that contains a factor of x + 1 can detect all
+
+even number errors
+odd number errors
+single bit errors
+multiple bit errors
+Answer B
+
+MCQ To guarantee correction of up to t errors in all cases, the minimum hamming distance in a block code must be
+
+2k
+2k-1
+2k+1
+2k+2
+Answer C
+
+MCQ There is no error in the received code word, if the syndrome is
+
+maximum
+minimum
+0
+1
+Answer C
+
+MCQ A simple parity-check code has dmin =
+
+0
+1
+2
+3
+Answer C
+
+MCQ The standard polynomial that is used by the popular protocol of CRC-16 for the
+
+ATM header
+ATMAAL
+HDLC
+LANs
+Answer C
+The Internet has been using a checksum of
+
+2 bit
+4 bit
+8 bit
+16 bit
+Answer D
+
+MCQ A pattern of 0s and 1s can be represented as a
+
+bits
+modulo-2
+polynomial
+coefficient
+Answer c
+
+MCQ Forward error correction is possible when the number of errors is
+
+zero
+small
+large
+infinity
+Answer B
+
+MCQ Any coding scheme needs to have at least the parameters of
+
+codeword size
+dataword size
+minimum hamming distance
+All of them
+Answer D
+
+MCQ Single-bit errors are the least likely type of error in
+
+parallel data transmission
+serial data transmission.
+unidirectional transmission
+bidirectional transmission
+Answer B
+ In a cyclic code, generator polynomial is normally called the
+
+multiplier
+divisor
+addition
+subtraction
+Answer B
+
+MCQ There are two main methods of
+
+error detection
+error correction
+parity bit errors
+redundancy
+Answer C
+
+The cyclic redundancy check is used in	 C	codewords	datawords	networks	transmission
+To guarantee correction of up to t errors in all cases, the minimum Hamming distance in a block code must be	D	d min = 2s -1	d min = s + 1	d min= s-1	d min == 2t+ 1
+The received codeword of the cyclic code is the sum of the sent 	 C	codeword and thedataword	generator	error	syndrome
+In a cyclic code, the decoder is failed to detect any error, when syndrome is	 A	zero	non zero	infinity	negative value	
+What is the maximum effect of a 2-ms burst of noise on data transmitted for 12 kbps	D	2 bits	4 bits1	16 bits	24 bits
+the divisor line and XOR are missing if the corresponding bit in the divisor is	A	0	1	10	11
+The unsigned representation of numbers by one's complement can represent	positive number	 C	negative number	Positive and negative numbers	infinite numbers
+The checksum is used in the Internet by several protocols although not at the	 D	session layer	transport layer	network layer	data link layer
+A simple parity-check code can detect the errors of	 A	odd numbers	even numbers	positive numbers	negative numbers
+The hamming distance can easily be found if we apply the	A	XOR operation	XNOR operation	OR operation	AND operation
+In subtraction of modulo-2 arithmetic, 0-1 =	C	0	-1	1	infinity
+In modulo-N arithmetic, we use only the integers in the range	 B	0 to N	0 to N-1	0 to N-2	0 to N-3
+To detect or correct errors, we send extra bits with data. It is called	A	redundancy		retransmission	detection	correction
+A good polynomial generator of the cyclic code have at least	C	zero term	one term	two terms	three terms
+A simple parity-check code can detect an	 A	odd number of errors	even number of errors	overall errors	None
+A simple parity-check code is the most familia	 B	error-correcting code	error-detecting code	datawords	codewords
+
+
+
